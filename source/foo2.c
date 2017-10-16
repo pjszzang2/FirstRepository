@@ -1,9 +1,6 @@
 #include<stdio.h>
 void foo2(){
-	printf("jaeseok"); //name
-}
+	printf("zzzzzz");
 
-void dd(){
-	printf("zzzz");
 }
 
