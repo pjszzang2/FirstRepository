@@ -1,5 +1,5 @@
 #include<stdio.h>
 void foo2(){
-	printf("jaeseok!\n");
+	printf("jaeseok!");
 }
 
