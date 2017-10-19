@@ -4,7 +4,7 @@ void foo2(){
 
 }
 
-int mul(int a int b){
+void mul(int a, int b){
 	printf("Mul is %d",a*b);
 }
 
