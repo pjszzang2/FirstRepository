@@ -5,6 +5,6 @@ void foo1(){
 }
 
 int add(int a int b){
-	printf("%d\n",a+b);
+	printf("add is %d\n",a+b);
 }
 
