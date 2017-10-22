@@ -5,10 +5,10 @@ void foo1(){
 }
 
 void add(int a, int b){
-	printf("add is %d\n",a+b); 
+	printf("add is %d\n",a+b);//add
 }
 
 void sub(int a,int b){
-	printf("sub is %d\n",b-a);
+	printf("sub is %d\n",b-a);//sub
 }
 
